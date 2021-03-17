@@ -1,2 +1,2 @@
 # js-utils
-Various small utils which helps me in everydays development
+Various small utils which helps me in everydays frontend development
